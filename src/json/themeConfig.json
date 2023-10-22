@@ -1,0 +1,12 @@
+{
+  "color": {
+    "light": {
+      "primary": { "value": "#ffffff" },
+      "secondary": { "value": "#e0e0e0" }
+    },
+    "dark": {
+      "primary": { "value": "#121212" },
+      "secondary": { "value": "#242424" }
+    }
+  }
+}
