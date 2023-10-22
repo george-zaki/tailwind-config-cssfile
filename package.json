@@ -21,8 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "generate:light": "ts-node ./themeGeneratorSingleFile.ts light",
-    "generate:dark": "ts-node ./themeGeneratorSingleFile.ts dark"
+    "generate:light": "ts-node ./themeCSSGenerator.ts light",
+    "generate:dark": "ts-node ./themeCSSGenerator.ts dark"
   },
   "eslintConfig": {
     "extends": [
