@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "tailwindcss": "^3.3.3",
     "ts-node": "^10.9.1"
   }
 }
