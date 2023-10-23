@@ -3,6 +3,7 @@
     "target": "es6", // or a preferred ECMAScript target
     "module": "commonjs",
     "esModuleInterop": true,
+    "resolveJsonModule": true,
     "strict": true, // enables all strict type-checking options
     // other options...
     "types": ["node"], // This must be present to include Node.js types
